@@ -1,4 +1,4 @@
-let i=1
+let i=6
 do{
     console.log('Good evening' + i)
     i++
